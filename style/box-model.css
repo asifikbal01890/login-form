@@ -1,0 +1,10 @@
+.parent{
+    border: 10px solid tomato;
+    width: fit-content;
+    padding: 20px;
+    margin: 30px;
+}
+.parent-div{
+    border: 2px solid;
+    width: fit-content;
+}
